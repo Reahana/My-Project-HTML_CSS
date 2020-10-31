@@ -1,0 +1,13 @@
+*{margin:0; padding:0; outline:0;}
+body{font-family:arial; font-size:20px; }
+.content{background:#fff; width:700px;margin:0 auto;}
+.header,.footer{
+	text-align:center; 
+	background:#D9A554; 
+	padding:10px;
+	color:#f0f0f0;}
+.maincontent{background:#FEEEAD ;margin:10px; padding: 5px 10px;}
+.maincontent h3{margin-top:15px;Color:#BD7F3F ;margin-left:10px;}
+.maincontent p{font-size:20px; color:#C78B43; padding-left:50px;  }
+.maincontent button{background-image:url("bg.jpg") ; font-size:15px;font-weight:bold;  padding:5px; margin:10px;}
+
