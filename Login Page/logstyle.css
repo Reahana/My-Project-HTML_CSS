@@ -1,0 +1,13 @@
+*{margin:0; padding:0; outline:0;}
+body{font-family:arial; font-size:18px; }
+.main{ width:500px;margin:0 auto;}
+.header h2{text-align:center; 
+	background:#9129D1; 
+	padding:10px;
+	color:#f0f0f0;}
+	.page{background:#E9B4C4;margin:10px; padding: 10px;}
+	.footer p{
+	text-align:center; 
+	background:#9129D1; 
+	padding:10px;
+	color:#f0f0f0;}

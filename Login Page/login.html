@@ -1,0 +1,40 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<title>Login Page</title>
+	<link rel="stylesheet" href="logstyle.css" />
+</head>
+<body>
+<div class="main">
+
+<div class="header">
+<h2>Simple Login Page</h2>
+</div>
+	<div class="page">
+	<form>
+	User Name:    <input type="text"name="userid"   />
+	<br /><br />
+	Password: <input type="password" name="pswrd"  />
+	<br /><br />
+	<input type="button" onclick="check(this.form)" value="Login"/>
+	<input type="reset" value="Cancel"/>
+	</form>
+	</div>
+	<div class="footer"><p>&copy; Amanda Reahana Gomes</p></div>
+</div>	
+	<script type="text/javascript">
+	function check(form)
+{
+ if(form.userid.value == "NameID" && form.pswrd.value == "p1234")
+  {
+    window.open('http://arg-world.epizy.com')
+  }
+ else
+ {
+   alert("Error Password or Username")
+  }
+}
+	</script>
+</body>
+</html>
