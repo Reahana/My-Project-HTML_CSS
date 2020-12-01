@@ -6,6 +6,7 @@ body{font-family:arial; font-size:20px; }
 	background:#D9A554; 
 	padding:10px;
 	color:#f0f0f0;}
+	.footer p{font-size:16px;}
 .maincontent{background:#FEEEAD ;margin:10px; padding: 5px 10px;}
 
 .column {
@@ -36,7 +37,7 @@ body{font-family:arial; font-size:20px; }
   width: 100%;
   height: 100%;
   text-align: center;
-  transition: transform 1s;
+  transition: transform 2s;
   transform-style: preserve-3d;
 }
 
