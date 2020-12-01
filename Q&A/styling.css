@@ -6,6 +6,7 @@ body{font-family:arial; font-size:20px; }
 	background:#D9A554; 
 	padding:10px;
 	color:#f0f0f0;}
+	.footer p{font-size:16px;}
 .maincontent{background:#FEEEAD ;margin:10px; padding: 5px 10px;}
 .maincontent h3{margin-top:15px;Color:#BD7F3F ;margin-left:10px;}
 .maincontent p{font-size:20px; color:#C78B43; font-weight:bold; }
